@@ -1,43 +1,14 @@
-# Hi, I'm Mohamed Jaafar
+# Hey, I'm Mohamed 👋
 
-**Software developer and student based in Bahrain.**
+I write code in **Rust, Go, and JavaScript**. This is where I keep the things I'm building and learning along the way.
 
-I build projects in Rust, Go, and JavaScript, with interests in systems, computer graphics, and web development. I'm studying ICT Programming at Bahrain Polytechnic and full-stack software engineering at Reboot01.
+Lately, I've been exploring graphics and simulations:
 
-[Portfolio](https://mo7dm.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-kadhem/) · [Email](mailto:mohamed@mo7dm.com)
+- **[RayTracing](https://github.com/Mo7dM/RayTracing)** — a ray tracer in Rust, built without external dependencies.
+- **[smart-road](https://github.com/Mo7dM/smart-road)** — an intersection without traffic lights, simulated with Rust and SDL2.
 
-## Selected projects
+I like getting into how things work: how a ray becomes a pixel, how cars share an intersection, and how the code fits together.
 
-### [RayTracing](https://github.com/Mo7dM/RayTracing)
-A ray tracer written in **Rust**, without external dependencies. Renders spheres, planes, cubes, and cylinders using diffuse lighting and hard shadows, then exports the result as a PPM image.
+Take a look around the repos. You'll find source code and instructions for running the projects in their READMEs.
 
-- Ray–object intersections, surface normals, and shadow rays.
-- Four scenes, configurable image dimensions, and different camera positions.
-
-[Explore the source and run instructions →](https://github.com/Mo7dM/RayTracing#readme)
-
-### [smart-road](https://github.com/Mo7dM/smart-road)
-A **Rust and SDL2** traffic simulation of an intersection without traffic lights. A central controller coordinates vehicle speeds, crossing times, and following distances.
-
-- Roads, vehicles, and the statistics display are drawn in code.
-- Records throughput, waiting times, and close calls to examine the simulation's behaviour.
-
-[Explore the source and run instructions →](https://github.com/Mo7dM/smart-road#readme)
-
-## Technologies
-
-| Area | Technologies |
-| --- | --- |
-| Languages | Rust, Go, JavaScript, Java, Python |
-| Web and data | Node.js, Express, GraphQL, SQLite |
-| Tools and systems | Git, Unix, SDL2 |
-
-## Education and certification
-
-- **Bahrain Polytechnic** — ICT Programming student, 2023–present.
-- **Reboot01** — Full-stack software engineering student, 2025–present.
-- **[Junior Penetration Tester (eJPT)](https://certs.ine.com/94397082-2aee-4f96-a6dc-eba5e58388e8)** — INE Security, August 2025.
-
-## Get in touch
-
-For project discussions or software development opportunities, reach me at **[mohamed@mo7dm.com](mailto:mohamed@mo7dm.com)**.
+[mo7dm.com](https://mo7dm.com) · [Email](mailto:mohamed@mo7dm.com)
